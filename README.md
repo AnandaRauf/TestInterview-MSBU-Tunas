@@ -5,7 +5,7 @@
 2. Setting Environment Variabel di Path System: contoh: Python388/Scripts dan Python388/Lib
 3. Check versi Python di CMD: python --version
 4. Buka CMD di folder proyek,kemudian ketik python testsatu.py
-5. Untuk Test Interview soal kedua,bisa [Buka branch Test Interview Dua]()
+5. Untuk Test Interview soal kedua,bisa [Buka branch Test Interview Dua](https://github.com/AnandaRauf/TestInterview-MSBU-Tunas/tree/Test-Interview-Soal-Kedua)
 6. Selesai
 
 # Ada kendala masalah?
