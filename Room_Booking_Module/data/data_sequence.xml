@@ -1,0 +1,9 @@
+<odoo>
+    <record id="seq_pemesanan_ruangan" model="ir.sequence">
+        <field name="name">Pemesanan Ruangan</field>
+        <field name="code">pemesanan.ruangan</field>
+        <field name="prefix">BOOK-</field>
+        <field name="padding">4</field>
+        <field name="number_next">1</field>
+    </record>
+</odoo>
